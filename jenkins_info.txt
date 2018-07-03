@@ -1,0 +1,4 @@
+jenkins admin password location:
+sudo cat /var/root/.jenkins/secrets/initialAdminPassword
+
+jenkins token: 11029df9cd4d283b5ccfeb0205dae57c1b

@@ -1,0 +1,9 @@
+﻿Input,Output,,
+Text Input,CommandKind,NuggetKind,WeatherNuggetKind
+Whats the weather in Seattle,InformationCommand,Weather,ShowWeatherCurrentConditions
+Whats the weather in Berlin,InformationCommand,Weather,ShowWeatherForecastDaily
+Who is Barack Obama?,WikipediaCmmand,,
+Whats the weather tomorrow,InformationCommand,Weather,ShowWeatherForecastDaily
+Whats the weather next week,InformationCommand,Weather,ShowWeatherForecastDaily
+Whats the weather tomorrow noon,InformationCommand,Weather,ShowWeatherForecastHourly
+,,,
